@@ -3,3 +3,5 @@ pointers
 -- access heap
 -- access external resources like keyboard, files, etc
 -- parameter passing
+
+use malloc to allocate memory in heap

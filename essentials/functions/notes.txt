@@ -1,0 +1,6 @@
+
+pass by value
+pass by address
+pass by reference (cpp feature)
+
+functions are called as procedures or module
