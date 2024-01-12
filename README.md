@@ -13,3 +13,12 @@ program only access stack with the help of pointer
 ### ./test.o
 
 ### int 4 bytes
+
+
+#include<iostream>
+using namespace std;
+
+int main(){
+
+    
+}
